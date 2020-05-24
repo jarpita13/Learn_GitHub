@@ -1,0 +1,10 @@
+    1  crontab -l
+    2  crontab -e
+    3  waagent -deprovision+user
+    4  rm README.TXT
+    5  ls -lrt
+    6  cd gitrepo
+    7  cd /home/arpitajain013gm/
+    8  cd gitrepo
+    9  ls -lrt
+   10  history>aj_hist.txt
